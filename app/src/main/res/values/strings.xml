@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PracticalTest003</string>
+    <string-array name="currency_types">
+        <item>USD</item>
+        <item>EUR</item>
+    </string-array>
+</resources>
